@@ -1,4 +1,3 @@
-layout_spectrum: 0.35937843075953424
 typography_spectrum: 0.641578788170591
 color:
   brandStrength: 0.6248088499996811
@@ -11,5 +10,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
+layout_spectrum: 0.35937843075953424
 name: rj
 title: kciredor
+description: my name doesn't sho
