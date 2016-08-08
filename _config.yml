@@ -1,0 +1,14 @@
+layout_spectrum: 0.35937843075953424
+typography_spectrum: 0.641578788170591
+color:
+  brandStrength: 0.6248088499996811
+  lightness: 0.35000598267652094
+  saturation: 0.5068282724823803
+  rhythmicContrast: 0.0731315917801112
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+name: rj
